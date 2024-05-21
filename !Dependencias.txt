@@ -1,0 +1,11 @@
+!Library UI
+React
+
+!Empaquetador 
+Vite
+
+!Desing system
+Shadcn
+
+!Empaquetador desktop
+Tauri
